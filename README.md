@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-![image](https://github.com/Revanth-2717/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152462274/d5638b11-d3fa-4fbc-b1dd-34de5a357f59)
+![image 2024-01-02 182421](https://github.com/Revanth-2717/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152462274/5d0983c9-cbdc-443d-886e-dc33d566488f)
+
 
 
 ## RESULT:
